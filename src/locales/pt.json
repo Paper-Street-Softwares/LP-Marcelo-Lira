@@ -1,0 +1,226 @@
+{
+  "infos": {
+    "adress": "Travessa Natividade 3A – Nova Esperança 1  <br/> Manaus - AM, CEP: 69037-531",
+    "adressSecundario": "A_Definir",
+    "expediente": "Segunda a sexta-feira: <br/> 8h às 17h",
+    "expedienteSecundario": "A_Definir",
+    "obs": "A_Definir"
+  },
+  "navbar": {
+    "menuItems": {
+      "home": "Início",
+      "service": "Serviços",
+      "about": "Sobre Nós",
+      "blog": "Blog",
+      "faq": "Perguntas Frequentes"
+    },
+    "ctaButtonText": "Contato",
+    "ctaButtonTextResponsive": "Contato"
+  },
+  "hero": {
+    "miniTag": "ESCRITÓRIO DE ADVOCACIA",
+    "title": "Justiça sem barreiras nem exceções",
+    "subtitle": "Uma advocacia transparente e acessível, feita para pessoas reais que buscam clareza e confiança.",
+    "ctaButtonText": "Conheça nosso jeito de atuar",
+    "obsHero": {
+      "text": "Atendimento online para todo Brasil"
+    }
+  },
+  "features": {
+    "miniTag": "ESPECIALIDADES",
+    "title": "Áreas de Atuação",
+    "subtitle": "Conheça os principais ramos do Direito em que oferecemos consultoria e representação jurídica.",
+    "card1": {
+      "title": "Direito Civil e Contratual",
+      "subtitle": "Elaboração e revisão de contratos, responsabilidade civil, indenizações, locações, família e sucessões.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card2": {
+      "title": "Direito do Consumidor",
+      "subtitle": "Defesa de consumidores e empresas em litígios, cláusulas abusivas, contratos de consumo e responsabilidade por produtos e serviços.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card3": {
+      "title": "Direito Trabalhista e Previdenciário",
+      "subtitle": "Causas trabalhistas individuais e coletivas, defesa de empregadores e empregados, consultoria preventiva, aposentadorias e benefícios do INSS.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card4": {
+      "title": "Direito Empresarial e Societário",
+      "subtitle": "Abertura, alteração e dissolução de empresas, contratos comerciais, recuperação judicial, falência e governança corporativa.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir",
+      "servicesButton": "A_Definir"
+    },
+    "card5": {
+      "title": "Direito Administrativo e Licitações",
+      "subtitle": "Defesa em processos administrativos, acompanhamento de licitações, contratos públicos e improbidade administrativa.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card6": {
+      "title": "Direito Tributário",
+      "subtitle": "Planejamento tributário, defesas em execuções fiscais, compensações e restituições de tributos.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card7": {
+      "title": "Direito Penal e <i> Compliance</i>",
+      "subtitle": "Defesa criminal, acompanhamento de inquéritos, ações penais, medidas cautelares e compliance penal empresarial.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card8": {
+      "title": "Direito Imobiliário",
+      "subtitle": "Compra e venda de imóveis, regularizações, incorporações, loteamentos, ações possessórias e condominiais.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card9": {
+      "title": "Direito Ambiental",
+      "subtitle": "Licenciamento, defesas administrativas e judiciais, consultoria preventiva em responsabilidade ambiental.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card10": {
+      "title": "Direito Digital e Proteção de Dados",
+      "subtitle": "Consultoria em LGPD, responsabilidade civil na internet, contratos digitais e crimes virtuais.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card11": {
+      "title": "Arbitragem e Mediação",
+      "subtitle": "Solução alternativa de conflitos por mediação, conciliação e arbitragem, com foco em rapidez e eficiência",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card12": {
+      "title": "Consultoria Jurídica",
+      "subtitle": "Orientação preventiva, análise de riscos e soluções jurídicas personalizadas para pessoas físicas e jurídicas.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    }
+  },
+  "maps": {
+    "minitag": "A_Definir",
+    "title": "A_Definir",
+    "subtitle": "A_Definir",
+    "embedsrc": "A_Definir"
+  },
+  "about": {
+    "imagem": {
+      "alt": "imagem about"
+    },
+    "miniTag": "QUEM É O ESCRITÓRIO MARCELO LIRA",
+    "title": "Nossa trajetória",
+    "subtitle": "Compromisso com ética, inclusão e soluções jurídicas acessíveis a todos.",
+    "buttonModalLabelAbout": "Continuar lendo",
+    "paragraph": "O Escritório Marcelo Lira Sociedade Individual de Advocacia nasceu do propósito de tornar a advocacia mais próxima e transparente. Desde sua fundação por Marcelo Augusto de Araujo Lira, a missão sempre foi clara: orientar e defender os interesses dos clientes com dedicação e ética, garantindo segurança em cada passo.",
+    "modal": "O Escritório Marcelo Lira Sociedade Individual de Advocacia nasceu do propósito de tornar a advocacia mais próxima e transparente. Desde sua fundação por Marcelo Augusto de Araujo Lira, a missão sempre foi clara: orientar e defender os interesses dos clientes com dedicação e ética, garantindo segurança em cada passo. <br/><br/> Com atuação preventiva e contenciosa, buscamos oferecer soluções jurídicas claras e adequadas a cada realidade. Nosso compromisso vai além da técnica, priorizando o acolhimento, a comunicação transparente e o respeito às escolhas e necessidades de quem confia em nosso trabalho. <br/><br/> Acreditamos que o Direito deve ser acessível a todos. Por isso, atendemos pessoas de diferentes idades, gêneros e classes sociais, sempre com atenção especial à inclusão. Nosso espaço é preparado para receber também pessoas com deficiência ou necessidades específicas, assegurando um atendimento humano, igualitário e acessível. <br/><br/>",
+    "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
+    "ctaButtonText": "Entre em contato",
+    "aboutSocial": {
+      "miniTag": "REDES SOCIAIS",
+      "title": "Conecte-se agora mesmo",
+      "subtitle": "Aproveite nossas redes sociais para mantermos contato e ficar por dentro de atualizações importantes no mundo do direito.",
+      "labelInstagram": "Siga-nos no Instagram",
+      "labelFacebook": "Siga-nos no Facebook",
+      "labelLinkedin": "Siga-nos no Linkedin",
+      "labelX": "Siga-nos no X"
+    }
+  },
+  "news": {
+    "miniTag": "A_Definir",
+    "title": "A_Definir",
+    "subtitle": "A_Definir",
+    "description": "A_Definir"
+  },
+  "ctaSecondary": {
+    "title": "<span class=\"text-primary font-bold\">Dúvidas?</span> Entre em contato conosco para podermos lhe ajudar, <span class=\"text-primary font-bold\">estamos te esperando.</span>",
+    "subtitleDireitaPartes": ["E N T R E", "E M", "C O N T A T O", "V I A"],
+    "titleDireita": "WhatsApp",
+    "ctaButtonText": "Entre em Contato"
+  },
+  "steps": {
+    "miniTag": "PASSO A PASSO",
+    "title": "Como funciona nosso atendimento?",
+    "subtitle": "",
+    "cards": {
+      "card1": {
+        "stepNumber": 1,
+        "cardTitle": "Consulta inicial",
+        "cardDescription": "Realizamos uma reunião para entender seu caso e identificar suas necessidades jurídicas."
+      },
+      "card2": {
+        "stepNumber": 2,
+        "cardTitle": "Análise detalhada",
+        "cardDescription": "Examinamos todos os aspectos do seu caso, revisando documentos e evidências para obter uma visão completa."
+      },
+      "card3": {
+        "stepNumber": 3,
+        "cardTitle": "Elaboração da estratégia",
+        "cardDescription": "Criamos uma estratégia jurídica personalizada para proteger seus interesses de maneira eficaz."
+      },
+      "card4": {
+        "stepNumber": 4,
+        "cardTitle": "Ação legal",
+        "cardDescription": "Iniciamos e conduzimos as ações judiciais ou o serviço contratado, buscando justiça e soluções personalizadas conforme a necessidade do seu caso."
+      }
+    }
+  },
+  "blog": {
+    "miniTag": "BLOG",
+    "title": "Informação jurídica ao seu alcance",
+    "subtitle": "Acompanhe conteúdos exclusivos para manter-se sempre informado.",
+    "labelCards": "A_Definir",
+    "label": "Clique aqui para ver todas as matérias",
+    "blogLink": "A_Definir"
+  },
+  "faq": {
+    "miniTag": "TIRE SUAS DÚVIDAS",
+    "title": "Perguntas Frequentes",
+    "subtitle": "Confira as perguntas abaixo para esclarecer suas dúvidas.",
+    "questions": {
+      "question1": {
+        "question": "Como posso contratar seus serviços?",
+        "answer": "Agende sua consulta conosco via WhatsApp e conversaremos sobre suas necessidades e avaliaremos os custos."
+      },
+      "question2": {
+        "question": "Qual é o prazo médio para resolução de um caso?",
+        "answer": "O prazo médio varia conforme a complexidade, mas discutiremos uma estimativa durante a consulta inicial."
+      },
+      "question3": {
+        "question": "Quais documentos devo levar para a consulta?",
+        "answer": "Traga os documentos relevantes ao seu caso, como contratos, correspondências e registros, além de documentos pessoais e comprovante de residência."
+      },
+      "question4": {
+        "question": "Vocês oferecem serviços de consultoria preventiva?",
+        "answer": "Sim, oferecemos consultoria preventiva para evitar problemas futuros e garantir conformidade legal."
+      }
+    },
+    "paragraph": "Clique aqui caso tenha mais dúvidas"
+  },
+  "footer": {
+    "copyrightLine": "{{year}} - {{name}} - Todos os direitos reservados",
+    "footerDivulgacaoText": "Gostaria de ter um site como este? Clique aqui",
+    "midSectionName": "Até mais",
+    "footerText": "Agradecemos sua visita! Esperamos que em breve você se torne nosso cliente e desfrute de todos os benefícios que oferecemos.",
+    "footerSocialText": "A_Definir",
+    "footerNavegacaoText": "NAVEGAÇÃO"
+  }
+}
