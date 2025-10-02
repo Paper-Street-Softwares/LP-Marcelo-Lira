@@ -232,7 +232,7 @@ export default function AcordionModalServices() {
                 <button className="flex text-blue-600">
                   <span>{services.moreServices.arrowIcon}</span>
                   <span className="ml-2 text-left text-blue-600 text-paragraph3">
-                    {t("features.card13.title")}
+                    {t("features.card14.title")}
                   </span>
                 </button>
               </ModalComponent>
