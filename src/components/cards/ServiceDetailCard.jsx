@@ -1,5 +1,6 @@
 /* eslint-disable react/prop-types */
 import Button from "../interactives/Button";
+import { useTranslation } from "react-i18next";
 
 export default function ServiceDetailCard(props) {
   const {
@@ -11,6 +12,7 @@ export default function ServiceDetailCard(props) {
     buttonLink,
     bgPosition,
   } = props;
+  const { t } = useTranslation();
 
   return (
     <div className="w-full flex flex-col">
@@ -25,7 +27,7 @@ export default function ServiceDetailCard(props) {
       <div className="flex flex-col gap-[32px]">
         <div className="flex flex-col ">
           <h1 className="font-bold text-paragraph5 text-secondary opacity-70 border-b-2">
-            {subtitle}
+            <span dangerouslySetInnerHTML={{ __html: subtitle }} />
           </h1>
           <p className="text-paragraph3 pt-6">{description}</p>
         </div>

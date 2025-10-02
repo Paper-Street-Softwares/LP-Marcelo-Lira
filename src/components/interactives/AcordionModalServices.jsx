@@ -97,7 +97,11 @@ export default function AcordionModalServices() {
                 <button className="flex text-blue-600">
                   <span>{services.moreServices.arrowIcon}</span>
                   <span className="ml-2 text-left text-blue-600 text-paragraph3">
-                    {t("features.card9.title")}
+                    <span
+                      dangerouslySetInnerHTML={{
+                        __html: t("features.card9.title"),
+                      }}
+                    />
                   </span>
                 </button>
               </ModalComponent>
@@ -177,6 +181,58 @@ export default function AcordionModalServices() {
                   <span>{services.moreServices.arrowIcon}</span>
                   <span className="ml-2 text-left text-blue-600 text-paragraph3">
                     {t("features.card12.title")}
+                  </span>
+                </button>
+              </ModalComponent>
+
+              {/* Link 13 */}
+              <ModalComponent
+                header={t("features.card13.title")}
+                content={
+                  <ServiceDetailCard
+                    img={content.texts.features.card13.imgModal}
+                    // subtitle={
+                    //   services.moreServices.demaisAreas.service4.cardSubtitle
+                    // }
+                    description={t("features.card13.subtitle")}
+                    buttonLabel={content.texts.features.card13.buttonLabel}
+                    buttonIcon={services.moreServices.ctaButtons.icon}
+                    buttonLink={
+                      services.moreServices.demaisAreas.service4.buttonLink
+                    }
+                  />
+                }
+              >
+                <button className="flex text-blue-600">
+                  <span>{services.moreServices.arrowIcon}</span>
+                  <span className="ml-2 text-left text-blue-600 text-paragraph3">
+                    {t("features.card13.title")}
+                  </span>
+                </button>
+              </ModalComponent>
+
+              {/* Link 14 */}
+              <ModalComponent
+                header={t("features.card14.title")}
+                content={
+                  <ServiceDetailCard
+                    img={content.texts.features.card14.imgModal}
+                    // subtitle={
+                    //   services.moreServices.demaisAreas.service4.cardSubtitle
+                    // }
+                    description={t("features.card14.subtitle")}
+                    buttonLabel={content.texts.features.card14.buttonLabel}
+                    buttonIcon={services.moreServices.ctaButtons.icon}
+                    buttonLink={
+                      services.moreServices.demaisAreas.service4.buttonLink
+                    }
+                  />
+                }
+              >
+                <button className="flex text-blue-600">
+                  <span>{services.moreServices.arrowIcon}</span>
+                  <span className="ml-2 text-left text-blue-600 text-paragraph3">
+                    {t("features.card14.title")}
                   </span>
                 </button>
               </ModalComponent>

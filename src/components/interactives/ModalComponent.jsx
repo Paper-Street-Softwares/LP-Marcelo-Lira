@@ -7,7 +7,7 @@ export default function ModalComponent({ children, header, content }) {
   const [visible, setVisible] = useState(false);
 
   const openModal = () => setVisible(true);
-  const closeMOdal = () => setVisible(false);
+  const closeModal = () => setVisible(false);
 
   const childWithProps = React.cloneElement(children, {
     onClick: openModal,
@@ -17,13 +17,17 @@ export default function ModalComponent({ children, header, content }) {
     <div>
       {childWithProps}
       <Dialog
-        className=" font-secondFont"
+        className="font-secondFont"
         closeIcon={<X size={20} />}
-        header={header}
+        header={<span dangerouslySetInnerHTML={{ __html: header }} />}
         visible={visible}
-        onHide={() => setVisible(false)}
+        onHide={closeModal}
         style={{ width: "50vw" }}
-        breakpoints={{ "4000px": "300px", "1024px": "300px",  "641px": "300px" }}
+        breakpoints={{
+          "4000px": "300px",
+          "1024px": "300px",
+          "641px": "300px",
+        }}
       >
         {content}
       </Dialog>
