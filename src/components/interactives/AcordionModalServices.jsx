@@ -232,7 +232,37 @@ export default function AcordionModalServices() {
                 <button className="flex text-blue-600">
                   <span>{services.moreServices.arrowIcon}</span>
                   <span className="ml-2 text-left text-blue-600 text-paragraph3">
-                    {t("features.card14.title")}
+                    <span
+                      dangerouslySetInnerHTML={{
+                        __html: t("features.card14.title"),
+                      }}
+                    />
+                  </span>
+                </button>
+              </ModalComponent>
+
+              {/* Link 15 */}
+              <ModalComponent
+                header={t("features.card15.title")}
+                content={
+                  <ServiceDetailCard
+                    // img={content.texts.features.card15.imgModal}
+                    // subtitle={
+                    //   services.moreServices.demaisAreas.service4.cardSubtitle
+                    // }
+                    description={t("features.card15.subtitle")}
+                    // buttonLabel={content.texts.features.card15.buttonLabel}
+                    buttonIcon={services.moreServices.ctaButtons.icon}
+                    buttonLink={
+                      services.moreServices.demaisAreas.service4.buttonLink
+                    }
+                  />
+                }
+              >
+                <button className="flex text-blue-600">
+                  <span>{services.moreServices.arrowIcon}</span>
+                  <span className="ml-2 text-left text-blue-600 text-paragraph3">
+                    {t("features.card15.title")}
                   </span>
                 </button>
               </ModalComponent>

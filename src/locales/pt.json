@@ -45,51 +45,51 @@
       "buttonLabel": "A_Definir"
     },
     "card3": {
-      "title": "Direito do Consumidor",
-      "subtitle": "Defesa de consumidores e empresas em litígios, cláusulas abusivas, contratos de consumo e responsabilidade por produtos e serviços.",
+      "title": "Direito Trabalhista",
+      "subtitle": "Assessoria em direitos de empregados e empregadores, reclamações trabalhistas, acordos e negociações sindicais.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card4": {
-      "title": "Direito Trabalhista e Previdenciário",
-      "subtitle": "Causas trabalhistas individuais e coletivas, defesa de empregadores e empregados, consultoria preventiva, aposentadorias e benefícios do INSS.",
+      "title": "Direito Penal",
+      "subtitle": "Defesa em processos criminais, acompanhamento de inquéritos e orientações estratégicas para proteger direitos e garantias.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir",
       "servicesButton": "A_Definir"
     },
     "card5": {
-      "title": "Direito Empresarial e Societário",
-      "subtitle": "Abertura, alteração e dissolução de empresas, contratos comerciais, recuperação judicial, falência e governança corporativa.",
+      "title": "Direito do Consumidor",
+      "subtitle": "Atuação em conflitos entre consumidores e fornecedores, ações de reparação, cancelamentos e cobranças indevidas.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card6": {
-      "title": "Direito Administrativo e Licitações",
-      "subtitle": "Defesa em processos administrativos, acompanhamento de licitações, contratos públicos e improbidade administrativa.",
+      "title": "Direito Empresarial e Societário",
+      "subtitle": "Consultoria em abertura, gestão e reorganização de empresas, contratos societários e relações comerciais.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card7": {
-      "title": "Direito Tributário",
-      "subtitle": "Planejamento tributário, defesas em execuções fiscais, compensações e restituições de tributos.",
+      "title": "Direito Previdenciário",
+      "subtitle": "Acompanhamento de benefícios, aposentadorias, revisões e planejamento previdenciário para pessoas físicas e jurídicas.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card8": {
-      "title": "Direito Penal",
+      "title": "Direito Administrativo e Licitações",
       "subtitle": "Defesa em processos criminais, acompanhamento em inquéritos policiais e orientação jurídica para garantia de direitos fundamentais.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
     },
     "card9": {
-      "title": " <i> Compliance</i>",
-      "subtitle": "Implementação de programas de integridade, prevenção de riscos legais e conformidade com normas regulatórias e corporativas.",
+      "title": "Direito Tributário",
+      "subtitle": "Planejamento tributário, defesas em execuções fiscais, compensações e restituições de tributos.",
       "description": "A_Definir",
       "buttonLabelModal": "A_Definir",
       "buttonLabel": "A_Definir"
@@ -123,6 +123,13 @@
       "buttonLabel": "A_Definir"
     },
     "card14": {
+      "title": "<i>Compliance</i>",
+      "subtitle": "Orientação preventiva, análise de riscos e soluções jurídicas personalizadas para pessoas físicas e jurídicas.",
+      "description": "A_Definir",
+      "buttonLabelModal": "A_Definir",
+      "buttonLabel": "A_Definir"
+    },
+    "card15": {
       "title": "Consultoria Jurídica",
       "subtitle": "Orientação preventiva, análise de riscos e soluções jurídicas personalizadas para pessoas físicas e jurídicas.",
       "description": "A_Definir",
@@ -144,8 +151,8 @@
     "title": "Nossa trajetória",
     "subtitle": "Compromisso com ética, inclusão e soluções jurídicas acessíveis a todos.",
     "buttonModalLabelAbout": "Continuar lendo",
-    "paragraph": "O Escritório Marcelo Lira Sociedade Individual de Advocacia nasceu do propósito de tornar a advocacia mais próxima e transparente. Desde sua fundação por Marcelo Augusto de Araujo Lira, a missão sempre foi clara: orientar e defender os interesses dos clientes com dedicação e ética, garantindo segurança em cada passo.",
-    "modal": "O Escritório Marcelo Lira Sociedade Individual de Advocacia nasceu do propósito de tornar a advocacia mais próxima e transparente. Desde sua fundação por Marcelo Augusto de Araujo Lira, a missão sempre foi clara: orientar e defender os interesses dos clientes com dedicação e ética, garantindo segurança em cada passo. <br/><br/> Com atuação preventiva e contenciosa, buscamos oferecer soluções jurídicas claras e adequadas a cada realidade. Nosso compromisso vai além da técnica, priorizando o acolhimento, a comunicação transparente e o respeito às escolhas e necessidades de quem confia em nosso trabalho. <br/><br/> Acreditamos que o Direito deve ser acessível a todos. Por isso, atendemos pessoas de diferentes idades, gêneros e classes sociais, sempre com atenção especial à inclusão. Nosso espaço é preparado para receber também pessoas com deficiência ou necessidades específicas, assegurando um atendimento humano, igualitário e acessível. <br/><br/>",
+    "paragraph": "O Escritório Jurídico Lira nasceu do propósito de tornar a advocacia mais próxima e transparente. Desde sua fundação por Marcelo Augusto de Araujo Lira, a missão sempre foi clara: orientar e defender os interesses dos clientes com dedicação e ética, garantindo segurança em cada passo.",
+    "modal": "O Escritório Jurídico Lira nasceu do propósito de tornar a advocacia mais próxima e transparente. Desde sua fundação por Marcelo Augusto de Araujo Lira, a missão sempre foi clara: orientar e defender os interesses dos clientes com dedicação e ética, garantindo segurança em cada passo. <br/><br/> Com atuação preventiva e contenciosa, buscamos oferecer soluções jurídicas claras e adequadas a cada realidade. Nosso compromisso vai além da técnica, priorizando o acolhimento, a comunicação transparente e o respeito às escolhas e necessidades de quem confia em nosso trabalho. <br/><br/> Acreditamos que o Direito deve ser acessível a todos. Por isso, atendemos pessoas de diferentes idades, gêneros e classes sociais, sempre com atenção especial à inclusão. Nosso espaço é preparado para receber também pessoas com deficiência ou necessidades específicas, assegurando um atendimento humano, igualitário e acessível. <br/><br/>",
     "ctaButtonAriaLabel": " Quer saber mais sobre nós? Clique abaixo 👇",
     "ctaButtonText": "Entre em contato",
     "aboutSocial": {

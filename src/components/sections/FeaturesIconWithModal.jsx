@@ -36,7 +36,7 @@ export default function FeaturesIconWithModal({ colorMode }) {
         subtitleColorSet={textClass}
       />
       <SectionWrapper>
-        <div className="w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+        <div className="w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6 desktop1:">
           <MotionDivDownToUp>
             <IconFeatureCard
               icon={content.texts.features.card1.icon}
@@ -100,13 +100,7 @@ export default function FeaturesIconWithModal({ colorMode }) {
           <MotionDivDownToUp>
             <IconFeatureCard
               icon={content.texts.features.card7.icon}
-              title={
-                <span
-                  dangerouslySetInnerHTML={{
-                    __html: t("features.card7.title"),
-                  }}
-                />
-              }
+              title={t("features.card7.title")}
               paragraph={t("features.card7.subtitle")}
               className={`m-auto ${textClass}`}
               colorMode={colorMode}
@@ -114,6 +108,32 @@ export default function FeaturesIconWithModal({ colorMode }) {
           </MotionDivDownToUp>
 
           <MotionDivDownToUp>
+            <IconFeatureCard
+              icon={content.texts.features.card8.icon}
+              title={t("features.card8.title")}
+              paragraph={t("features.card8.subtitle")}
+              className={`m-auto ${textClass}`}
+              colorMode={colorMode}
+            />
+          </MotionDivDownToUp>
+
+          <MotionDivDownToUp>
+            <IconFeatureCard
+              icon={content.texts.features.card9.icon}
+              title={
+                <span
+                  dangerouslySetInnerHTML={{
+                    __html: t("features.card9.title"),
+                  }}
+                />
+              }
+              paragraph={t("features.card9.subtitle")}
+              className={`m-auto ${textClass}`}
+              colorMode={colorMode}
+            />
+          </MotionDivDownToUp>
+
+          <MotionDivDownToUp className="w-full flex justify-center">
             <IconFeatureCard
               icon={
                 <svg
