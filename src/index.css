@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Barlow+Condensed:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -58,123 +62,6 @@ body {
   font-family: "Poppins";
   src: url("/src/assets/fonts/Poppins-Italic.woff2") format("woff2");
   font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-
-/* Merriweather - Regular 400 */
-@font-face {
-  font-family: "Merriweather";
-  src: url("./assets/fonts/Merriweather/Merriweather-Regular.woff2")
-      format("woff2"),
-    url("./assets/fonts/Merriweather/Merriweather-Regular.ttf")
-      format("truetype");
-  font-weight: 400;
-  font-style: normal;
-  font-display: swap;
-}
-
-/* Merriweather - Italic 400 */
-@font-face {
-  font-family: "Merriweather";
-  src: url("./assets/fonts/Merriweather/Merriweather-Italic.woff2")
-      format("woff2"),
-    url("./assets/fonts/Merriweather/Merriweather-Italic.ttf")
-      format("truetype");
-  font-weight: 400;
-  font-style: italic;
-  font-display: swap;
-}
-
-/* Merriweather - Light 300 */
-@font-face {
-  font-family: "Merriweather";
-  src: url("./assets/fonts/Merriweather/Merriweather-Light.woff2")
-      format("woff2"),
-    url("./assets/fonts/Merriweather/Merriweather-Light.ttf") format("truetype");
-  font-weight: 300;
-  font-style: normal;
-  font-display: swap;
-}
-
-/* Merriweather - Light Italic 300 */
-@font-face {
-  font-family: "Merriweather";
-  src: url("./assets/fonts/Merriweather/Merriweather-LightItalic.woff2")
-      format("woff2"),
-    url("./assets/fonts/Merriweather/Merriweather-LightItalic.ttf")
-      format("truetype");
-  font-weight: 300;
-  font-style: italic;
-  font-display: swap;
-}
-
-/* Merriweather - Medium 500 */
-@font-face {
-  font-family: "Merriweather";
-  src: url("./assets/fonts/Merriweather/Merriweather-Medium.woff2")
-      format("woff2"),
-    url("./assets/fonts/Merriweather/Merriweather-Medium.ttf")
-      format("truetype");
-  font-weight: 500;
-  font-style: normal;
-  font-display: swap;
-}
-
-/* Merriweather - Medium Italic 500 */
-@font-face {
-  font-family: "Merriweather";
-  src: url("./assets/fonts/Merriweather/Merriweather-MediumItalic.woff2")
-      format("woff2"),
-    url("./assets/fonts/Merriweather/Merriweather-MediumItalic.ttf")
-      format("truetype");
-  font-weight: 500;
-  font-style: italic;
-  font-display: swap;
-}
-
-/* Merriweather - Bold 700 */
-@font-face {
-  font-family: "Merriweather";
-  src: url("./assets/fonts/Merriweather/Merriweather-Bold.woff2")
-      format("woff2"),
-    url("./assets/fonts/Merriweather/Merriweather-Bold.ttf") format("truetype");
-  font-weight: 700;
-  font-style: normal;
-  font-display: swap;
-}
-
-/* Merriweather - Bold Italic 700 */
-@font-face {
-  font-family: "Merriweather";
-  src: url("./assets/fonts/Merriweather/Merriweather-BoldItalic.woff2")
-      format("woff2"),
-    url("./assets/fonts/Merriweather/Merriweather-BoldItalic.ttf")
-      format("truetype");
-  font-weight: 700;
-  font-style: italic;
-  font-display: swap;
-}
-
-/* Merriweather - Black 900 */
-@font-face {
-  font-family: "Merriweather";
-  src: url("./assets/fonts/Merriweather/Merriweather-Black.woff2")
-      format("woff2"),
-    url("./assets/fonts/Merriweather/Merriweather-Black.ttf") format("truetype");
-  font-weight: 900;
-  font-style: normal;
-  font-display: swap;
-}
-
-/* Merriweather - Black Italic 900 */
-@font-face {
-  font-family: "Merriweather";
-  src: url("./assets/fonts/Merriweather/Merriweather-BlackItalic.woff2")
-      format("woff2"),
-    url("./assets/fonts/Merriweather/Merriweather-BlackItalic.ttf")
-      format("truetype");
-  font-weight: 900;
   font-style: italic;
   font-display: swap;
 }
