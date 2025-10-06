@@ -35,7 +35,7 @@ export default function HowItWorksCard({
         {title}
       </h1>
       <p
-        className={`text-[16px] text-center desktop1:text-left w-full ${textColor} ${textOpacity}`}
+        className={`text-[16px] text-center desktop1:text-left w-full font-secondFont ${textColor} ${textOpacity}`}
       >
         {description}
       </p>
