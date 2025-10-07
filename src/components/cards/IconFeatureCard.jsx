@@ -19,7 +19,7 @@ export default function IconFeatureCard(props) {
 
   return (
     <div
-      className={`w-full tablet1:min-h-[300px] p-0 tablet1:w-[290px] mt-[36px] tablet1:mt-0 desktop1:w-[230px] desktop1:h-[400px] flex flex-col items-center desktop1:hover:scale-110 transition desktop1:p-0 ${className}`}
+      className={`w-full tablet1:w-[290px] mt-[36px] tablet1:mt-0 desktop1:w-[200px] bg-white border rounded-lg p-4 flex flex-col items-center desktop1:hover:scale-110 transition  ${className}`}
     >
       <div
         className={`h-[64px] w-[64px] mb-[24px] rounded-md flex justify-center items-center text-white ${bgClass}`}
@@ -32,7 +32,7 @@ export default function IconFeatureCard(props) {
         {title}
       </h1>
       <p
-        className={`text-center opacity-70 font-secondFont w-[90%] pb-4 ${textClass}`}
+        className={`text-center opacity-70 font-secondFont w-[90%]${textClass}`}
       >
         {paragraph}
       </p>
