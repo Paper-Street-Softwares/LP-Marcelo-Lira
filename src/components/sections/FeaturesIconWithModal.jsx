@@ -36,8 +36,8 @@ export default function FeaturesIconWithModal({ colorMode }) {
         subtitleColorSet={textClass}
       />
       <SectionWrapper>
-        <div className="w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
-          <MotionDivDownToUp>
+        <div className="w-full grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-5 gap-6">
+          <MotionDivDownToUp className=" h-min ">
             <IconFeatureCard
               icon={content.texts.features.card1.icon}
               title={t("features.card1.title")}
@@ -47,7 +47,7 @@ export default function FeaturesIconWithModal({ colorMode }) {
             />
           </MotionDivDownToUp>
 
-          <MotionDivDownToUp>
+          <MotionDivDownToUp className=" h-min ">
             <IconFeatureCard
               icon={content.texts.features.card2.icon}
               title={t("features.card2.title")}
@@ -57,7 +57,7 @@ export default function FeaturesIconWithModal({ colorMode }) {
             />
           </MotionDivDownToUp>
 
-          <MotionDivDownToUp>
+          <MotionDivDownToUp className=" h-min ">
             <IconFeatureCard
               icon={content.texts.features.card3.icon}
               title={t("features.card3.title")}
@@ -67,7 +67,7 @@ export default function FeaturesIconWithModal({ colorMode }) {
             />
           </MotionDivDownToUp>
 
-          <MotionDivDownToUp>
+          <MotionDivDownToUp className=" h-min ">
             <IconFeatureCard
               icon={content.texts.features.card4.icon}
               title={t("features.card4.title")}
@@ -77,7 +77,7 @@ export default function FeaturesIconWithModal({ colorMode }) {
             />
           </MotionDivDownToUp>
 
-          <MotionDivDownToUp>
+          <MotionDivDownToUp className=" h-min ">
             <IconFeatureCard
               icon={content.texts.features.card5.icon}
               title={t("features.card5.title")}
@@ -87,7 +87,7 @@ export default function FeaturesIconWithModal({ colorMode }) {
             />
           </MotionDivDownToUp>
 
-          <MotionDivDownToUp>
+          <MotionDivDownToUp className=" h-min ">
             <IconFeatureCard
               icon={content.texts.features.card6.icon}
               title={t("features.card6.title")}
@@ -97,7 +97,7 @@ export default function FeaturesIconWithModal({ colorMode }) {
             />
           </MotionDivDownToUp>
 
-          <MotionDivDownToUp>
+          <MotionDivDownToUp className=" h-min ">
             <IconFeatureCard
               icon={content.texts.features.card7.icon}
               title={t("features.card7.title")}
@@ -107,7 +107,7 @@ export default function FeaturesIconWithModal({ colorMode }) {
             />
           </MotionDivDownToUp>
 
-          <MotionDivDownToUp>
+          <MotionDivDownToUp className=" h-min ">
             <IconFeatureCard
               icon={content.texts.features.card8.icon}
               title={t("features.card8.title")}
@@ -117,7 +117,7 @@ export default function FeaturesIconWithModal({ colorMode }) {
             />
           </MotionDivDownToUp>
 
-          <MotionDivDownToUp>
+          <MotionDivDownToUp className=" h-min ">
             <IconFeatureCard
               icon={content.texts.features.card9.icon}
               title={
@@ -133,7 +133,7 @@ export default function FeaturesIconWithModal({ colorMode }) {
             />
           </MotionDivDownToUp>
 
-          <MotionDivDownToUp className="w-full flex justify-center">
+          <MotionDivDownToUp className=" h-min mx-auto ">
             <IconFeatureCard
               icon={
                 <svg
