@@ -134,7 +134,7 @@ export default function SidebarSocial({ colorMode, mode = "blog" }) {
                                     spy={true}
                                     smooth={true}
                                     duration={500}
-                                    offset={-70}
+                                    offset={-110}
                                     className="align-text-top cursor-pointer"
                                   >
                                     {label}
